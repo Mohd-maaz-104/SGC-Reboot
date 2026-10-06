@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { DM_Sans } from "next/font/google";
 import SiteFooter from "@/components/site-footer";
 import SiteHeader from "@/components/site-header";
+import SmoothScroll from "@/components/smooth-scroll";
 import "./globals.css";
 
 const dmSans = DM_Sans({
@@ -38,12 +39,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" data-scroll-behavior="smooth">
+    <html lang="en">
       <body className={dmSans.variable}>
-        <a className="skip-link" href="#main-content">Skip to content</a>
-        <SiteHeader />
-        {children}
-        <SiteFooter />
+        <SmoothScroll>
+          <a className="skip-link" href="#main-content">Skip to content</a>
+          <SiteHeader />
+          {children}
+          <SiteFooter />
+        </SmoothScroll>
       </body>
     </html>
   );

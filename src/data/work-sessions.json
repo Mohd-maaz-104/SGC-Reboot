@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ai-fundamentals-chatgpt",
+    "title": "Generative AI Fundamentals: Understanding ChatGPT",
+    "category": "Technical Workshop",
+    "date": "July 2026",
+    "description": "Hands-on exploration of how ChatGPT and modern LLMs process language. Members broke down tokenization, vector embeddings, transformer attention mechanisms, and next-word probability distributions.",
+    "imageUrl": "https://res.cloudinary.com/dbqjkjl0c/image/upload/v1783792649/ad02e093-e218-4d66-ad4f-93701c2e6958_n6gkbh.jpg",
+    "localImage": "/images/work/ai-fundamentals-chatgpt.jpg",
+    "tag": "Generative AI"
+  },
+  {
+    "id": "google-ai-studio",
+    "title": "Hands-on GenAI with Google AI Studio",
+    "category": "Applied AI Workshop",
+    "date": "July 2026",
+    "description": "Practical engineering session utilizing Google AI Studio and Gemini models. Members sharpened multi-turn prompt engineering techniques, system instructions, and collaborated in squads to prototype solutions.",
+    "imageUrl": "https://res.cloudinary.com/dbqjkjl0c/image/upload/v1783792681/a4a0c25d-d2a5-496f-9d7f-31a8a03e13f5_kc3hgg.jpg",
+    "localImage": "/images/work/google-ai-studio.jpg",
+    "tag": "Prompt Engineering"
+  },
+  {
+    "id": "speak-beyond-words",
+    "title": "Speak Beyond Words: JAM Session",
+    "category": "Communication & Soft Skills",
+    "date": "July 2026",
+    "description": "High-energy Just A Minute (JAM) public speaking workshop aimed at conquering stage fright, sharpening extempore clarity, structuring quick arguments, and boosting executive presence.",
+    "imageUrl": "https://res.cloudinary.com/dbqjkjl0c/image/upload/v1783793020/WhatsApp_Image_2026-07-11_at_11.19.04_PM_u4hnz3.jpg",
+    "localImage": "/images/work/speak-beyond-words.jpg",
+    "tag": "Oratory & JAM"
+  },
+  {
+    "id": "money-matters",
+    "title": "Money Matters: Education to Financial Freedom",
+    "category": "Financial Literacy",
+    "date": "July 2026",
+    "description": "Demystifying personal finance for college students: budget allocation, index funds, equity market basics, inflation hedging, and the exponential power of compounding for early financial autonomy.",
+    "imageUrl": "https://res.cloudinary.com/dbqjkjl0c/image/upload/v1783793144/WhatsApp_Image_2026-07-11_at_11.19.03_PM_ofru8o.jpg",
+    "localImage": "/images/work/money-matters.jpg",
+    "tag": "Personal Finance"
+  },
+  {
+    "id": "spy-among-us",
+    "title": "Spy Among Us: Social Deduction & Strategy",
+    "category": "Team Dynamics",
+    "date": "July 2026",
+    "description": "Strategic deception and deduction workshop where teams identified concealed players through structured inquiry, body language analysis, and consensus building.",
+    "imageUrl": "https://res.cloudinary.com/dbqjkjl0c/image/upload/v1783792730/c401708e-f63f-4cb7-96ff-4f37c545e40d_zagf3v.jpg",
+    "localImage": "/images/work/spy-among-us.jpg",
+    "tag": "Strategic Thinking"
+  }
+]

@@ -1,38 +1,92 @@
 [
   {
-    "title": "CARDIA wins VIT Hackulus 2026",
-    "people": "Mohamed Zahangir and Mohammed Yasar",
-    "detail": "The team’s project combined an interactive 3D heart simulation with heart anatomy, simulated blood flow and an AI-powered retrieval layer.",
-    "link": "https://lnkd.in/p/dNEEEqsk"
+    "id": "vit-hackulus-2026",
+    "title": "CARDIA Wins VIT Hackulus 2026",
+    "people": "Mohamed Zahangir & Mohammed Yasar",
+    "category": "Hackathon Victory",
+    "detail": "Emerged as overall winners of VIT Hackulus 2026, a 24-hour national hackathon at VIT graVITas. The team developed CARDIA, an interactive 3D heart simulation combining real-time 3D visualization, interactive heart anatomy, simulated blood flow, and an AI-powered RAG layer.",
+    "image": "/images/achievements/vit-hackulus-cardia.jpg",
+    "link": "https://lnkd.in/p/dNEEEqsk",
+    "badge": "1st Place Winner"
   },
   {
-    "title": "Two Yuva Future 6.0 teams reach the national stage",
-    "people": "Samiiksha, Zakwan Haaziq, Pooja Sri and Afra Naushine",
-    "detail": "SAHARA won at the Vellore regional level in the health vertical; Golden 60 was selected in the road-safety vertical. Both teams advanced to the national level.",
-    "link": "https://lnkd.in/p/d6y6Fe8i"
+    "id": "yuva-future-6",
+    "title": "SGC Members Shine at Yuva Future 6.0",
+    "people": "Samiiksha, Zakwan Haaziq, Pooja Sri & Afra Naushine",
+    "category": "Innovation & Social Impact",
+    "detail": "Samiiksha and Md. Zakwan Haaziq emerged as winners at the Vellore Regional Level in the Health vertical with SAHARA, a stigma-free student mental health support system. Pooja Sri and Afra Naushine were selected in the Road Safety vertical with Golden 60, a bystander-response system for the crucial post-accident Golden Hour. Both teams advanced to the National Level representing Vellore across Tamil Nadu.",
+    "image": "/images/achievements/yuva-future-national.jpg",
+    "link": "https://lnkd.in/p/d6y6Fe8i",
+    "badge": "National Finalists"
   },
   {
-    "title": "Smart India Hackathon 2025 winners",
-    "people": "Dhanush and team",
-    "detail": "SGC’s published achievement update reports that Dhanush and his teammates won the national innovation competition.",
-    "link": "https://www.linkedin.com/posts/dhanushkandhan_won-the-smart-india-hackathon-2025-with-my-ugcPost-7405246829681901568-MGpq/"
+    "id": "sih-2025",
+    "title": "Smart India Hackathon (SIH) 2025 Winners",
+    "people": "Dhanush & Team",
+    "category": "National Hackathon",
+    "detail": "Dhanush and his teammates emerged victorious at the prestigious Smart India Hackathon (SIH) 2025. Their innovative technological solution and outstanding teamwork earned them highest national recognition at India's premier government-backed innovation competition.",
+    "image": "/images/achievements/sih-2025-winner.jpg",
+    "link": "https://www.linkedin.com/posts/dhanushkandhan_won-the-smart-india-hackathon-2025-with-my-ugcPost-7405246829681901568-MGpq/",
+    "badge": "SIH Winner"
   },
   {
-    "title": "First prize at the Mini Project Expo",
-    "people": "Mohammed Ayaz, Kashif Ulhaq and team",
-    "detail": "Their PRINTMATE project received first prize and a ₹5,000 cash award.",
-    "link": "https://www.linkedin.com/posts/mohammed-ayaz-profile_printmate-miniprojectexpo-firstplace-ugcPost-7472157852346986496-OfSr/"
+    "id": "recruitment-drive-2026",
+    "title": "SGC Recruitment Drive 2026: 100+ Student Participation",
+    "people": "SGC Student Community",
+    "category": "Community Milestone",
+    "detail": "The March 2026 Recruitment Drive witnessed over 100 enthusiastic first-year engineering students participating in aptitude, interviews, and orientation sessions, continuing SGC's legacy of peer-to-peer mentorship and youth leadership.",
+    "image": "/images/achievements/recruitment-drive-2026.jpg",
+    "link": "https://www.linkedin.com/posts/studentguidancecell-cahcet_studentsguidancecell-sgc-hiring-share-7441861223840718848-MMfZ/",
+    "badge": "100+ Candidates"
   },
   {
-    "title": "GURO presented at IBM Build2Learn",
-    "people": "Dhanush and Abubakkar Siddiq",
-    "detail": "The SGC members presented their Python package to more than 50 IT professionals and industry experts in Chennai.",
-    "link": "https://www.linkedin.com/posts/reach2ashish_build2learn-activity-7289192302000947200--9fb"
+    "id": "tcs-offer-75-lpa",
+    "title": "Abubakkar Siddiq Secures 7.5 LPA Offer at TCS",
+    "people": "Abubakkar Siddiq",
+    "category": "Career Milestone",
+    "detail": "Dedicated core member Abubakkar Siddiq achieved a premier 7.5 LPA placement offer at Tata Consultancy Services (TCS), reflecting years of continuous technical rigor, peer leadership, and self-guided engineering at SGC.",
+    "image": "/images/achievements/abubakkar-tcs-offer.jpg",
+    "link": "https://teamsgc.in",
+    "badge": "7.5 LPA Placement"
   },
   {
-    "title": "MITACS Globalink Research Internship",
+    "id": "printmate-mini-project",
+    "title": "1st Prize at Mini Project Expo — PRINTMATE",
+    "people": "Mohammed Ayaz, Kashif Ulhaq & Team",
+    "category": "Project Excellence",
+    "detail": "Awarded First Prize along with a ₹5,000 cash honor at the Mini Project Expo for PRINTMATE. The team created a smart automated printing and document workflow system that impressed technical evaluators with its elegance and utility.",
+    "image": "/images/achievements/printmate-mini-project.jpg",
+    "link": "https://www.linkedin.com/posts/mohammed-ayaz-profile_printmate-miniprojectexpo-firstplace-ugcPost-7472157852346986496-OfSr/",
+    "badge": "1st Prize & ₹5,000"
+  },
+  {
+    "id": "guro-ibm-build2learn",
+    "title": "GURO Python Package Presented at IBM Build2Learn",
+    "people": "Dhanush & Abubakkar Siddiq",
+    "category": "Industry Keynote",
+    "detail": "Presented their newly engineered open-source Python library GURO before 50+ IT professionals, architects, and industry experts at the prestigious IBM Build2Learn summit in Chennai.",
+    "image": "/images/achievements/guro-ibm-build2learn.jpg",
+    "link": "https://www.linkedin.com/posts/reach2ashish_build2learn-activity-7289192302000947200--9fb",
+    "badge": "IBM Build2Learn"
+  },
+  {
+    "id": "state-speech-honour",
+    "title": "State-Level Speech Win Honoured by Deputy Chief Minister",
+    "people": "Mohameed Zabeer",
+    "category": "State Recognition",
+    "detail": "Selected for the State Level Speech Competition held during Muthamizh Arignar Kalaignar Centenary Fest by the Government of Tamil Nadu, and personally honoured by the Honorable Deputy Chief Minister Thiru. Udhayanidhi Stalin in Chennai.",
+    "image": "/images/achievements/zabeer-speech-dycm.jpg",
+    "link": "https://www.instagram.com/p/DGJBKzyzG-h/?img_index=7&igsh=MXgyd2o1Z3ozNXZjMQ==",
+    "badge": "Honoured by Dy. CM"
+  },
+  {
+    "id": "mitacs-globalink-2024",
+    "title": "MITACS Globalink Research Internship (Canada)",
     "people": "Varun Mayilvaganan",
-    "detail": "SGC’s published update reports his selection for the three-month international research internship in Canada.",
-    "link": "https://www.linkedin.com/posts/studentguidancecell-cahcet_sgc-mitacs-globalinkresearchinternship-activity-7183355849916968961-mhwW"
+    "category": "International Research",
+    "detail": "Selected for the world-renowned MITACS Globalink Research Internship '24 in Canada, representing SGC and CAHCET on the international academic research stage for a three-month fully-funded advanced fellowship.",
+    "image": "/images/achievements/varun-mitacs-canada.jpg",
+    "link": "https://www.linkedin.com/posts/studentguidancecell-cahcet_sgc-mitacs-globalinkresearchinternship-activity-7183355849916968961-mhwW",
+    "badge": "Canada Fellowship"
   }
 ]

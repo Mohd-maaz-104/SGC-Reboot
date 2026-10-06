@@ -8,8 +8,10 @@ import {
   CalendarDays,
   Compass,
   GraduationCap,
+  Trophy,
   UsersRound,
 } from "lucide-react";
+import achievements from "@/data/achievements.json";
 import activities from "@/data/current-activities.json";
 import events from "@/data/events.json";
 import members from "@/data/members.json";
@@ -140,13 +142,60 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Featured Work with Recognition */}
+      <section aria-labelledby="recognition-heading" className="portal-section portal-recognition">
+        <div className="portal-section-heading">
+          <div>
+            <p className="section-kicker"><span>03</span> WORK WITH RECOGNITION</p>
+            <h2 id="recognition-heading">Milestones earned<br />through <em>courage &amp; craft.</em></h2>
+          </div>
+          <Link className="portal-view-all" href="/today">View all 9 recognitions <ArrowUpRight size={16} /></Link>
+        </div>
+        <div className="recognition-grid">
+          {achievements.slice(0, 3).map((achievement) => (
+            <article className="recognition-card" key={achievement.id}>
+              <div className="recognition-card-media">
+                <Image
+                  alt={achievement.title}
+                  className="recognition-card-image"
+                  fill
+                  sizes="(max-width: 760px) 100vw, 33vw"
+                  src={achievement.image}
+                />
+                <span className="recognition-card-badge">
+                  <Trophy size={13} aria-hidden="true" />
+                  <span>{achievement.badge}</span>
+                </span>
+                <span className="recognition-card-category">{achievement.category}</span>
+              </div>
+              <div className="recognition-card-body">
+                <p className="recognition-card-people">{achievement.people}</p>
+                <h3 className="recognition-card-title">{achievement.title}</h3>
+                <p className="recognition-card-detail">{achievement.detail}</p>
+                {achievement.link && (
+                  <a
+                    className="recognition-card-link"
+                    href={achievement.link}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span>Read Official Post</span>
+                    <ArrowUpRight size={15} />
+                  </a>
+                )}
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
       <section aria-labelledby="current-heading" className="portal-section portal-current">
         <div className="portal-section-heading">
           <div>
-            <p className="section-kicker"><span>03</span> NOW AT SGC</p>
+            <p className="section-kicker"><span>04</span> NOW AT SGC</p>
             <h2 id="current-heading">Learning in <em>motion.</em></h2>
           </div>
-          <Link className="portal-view-all" href="/today">All updates & achievements <ArrowUpRight size={16} /></Link>
+          <Link className="portal-view-all" href="/today">All updates &amp; sessions <ArrowUpRight size={16} /></Link>
         </div>
         <div className="portal-current-list">
           {activities.slice(0, 3).map((activity, index) => (
@@ -164,7 +213,7 @@ export default function HomePage() {
 
       <section aria-label="Get involved with SGC" className="portal-contact">
         <div>
-          <p className="section-kicker"><span>04</span> TAKE PART</p>
+          <p className="section-kicker"><span>05</span> TAKE PART</p>
           <h2>Curious about<br />getting involved?</h2>
           <p>Find out about the team, browse the event archive or get in touch with the Student Guidance Cell.</p>
         </div>

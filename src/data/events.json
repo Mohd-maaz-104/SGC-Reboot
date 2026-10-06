@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Revibe ’26",
+    "slug": "revibe-26",
+    "date": "2026-09-12",
+    "category": "National-level technical symposium",
+    "description": "Technical events included paper presentation, a mini hackathon, coding and debugging, technical quiz, Shark Tank × SGC and Prompt Wars. The programme also featured chess, art, mehendi, cooking without fire and other non-technical events.",
+    "image": "/images/events/revibe-26.jpg",
+    "imageAlt": "Students gathered at Revibe ’26, SGC’s national-level technical symposium.",
+    "sourceImage": "https://res.cloudinary.com/dnbifmfhl/image/upload/v1790954197/group_photo_revibe_drcs1j.jpg",
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7512072936862740480/"
+  },
+  {
+    "name": "India Unbound",
+    "slug": "india-unbound",
+    "date": "2026-08-17",
+    "category": "Intra-college competition · 17–19 August",
+    "description": "Speech, debate and art competitions invited students to share perspectives on India’s future, youth leadership, innovation, technology and nation-building.",
+    "image": "/images/events/india-unbound.jpg",
+    "imageAlt": "India Unbound competition event image published by SGC.",
+    "sourceImage": "https://res.cloudinary.com/dnbifmfhl/image/upload/v1791025945/WhatsApp_Image_2026-10-02_at_9.12.49_PM_p136qu.jpg",
+    "link": "https://teamsgc.in/events"
+  },
+  {
+    "name": "ExAgent AI",
+    "slug": "exagent-ai",
+    "date": "2026-07-31",
+    "category": "Artificial intelligence workshop",
+    "description": "A practical introduction to AI agents, multi-agent systems, prompt engineering, AI-powered applications and industry use cases, led by software developer Hrithik of Merida Tech Minds.",
+    "image": "/images/events/exagent-ai.jpg",
+    "imageAlt": "ExAgent AI workshop image published by SGC.",
+    "sourceImage": "https://gokuls2028.neocities.org/sgc.jpg",
+    "link": "https://www.linkedin.com/posts/studentguidancecell-cahcet_studentguidancecell-sgc-exagentai-ugcPost-7489326285446475776-lrdb/"
+  },
+  {
+    "name": "SGC Trainee Recruitment Drive 2026",
+    "slug": "trainee-recruitment-2026",
+    "date": "2026-03-24",
+    "category": "Member recruitment",
+    "description": "More than 100 first-year students took part in the March 2026 recruitment drive and explored trainee opportunities with SGC.",
+    "image": "/images/events/trainee-recruitment-2026.jpg",
+    "imageAlt": "SGC Trainee Recruitment Drive 2026 event photo published by SGC.",
+    "sourceImage": "https://res.cloudinary.com/drgwlnf67/image/upload/v1775480924/IMG_20260326_133551_kjhukj.jpg",
+    "link": "https://www.linkedin.com/posts/studentguidancecell-cahcet_studentsguidancecell-sgc-hiring-activity-7441861224826515456-Zlfj"
+  },
+  {
+    "name": "Build X AI",
+    "slug": "build-x-ai",
+    "date": "2026-03-04",
+    "category": "Hands-on AI workshop",
+    "description": "Around 480 first-year students explored practical AI tools, working in eight collaborative groups of about 60 students each.",
+    "image": "/images/events/build-x-ai.jpg",
+    "imageAlt": "Build X AI workshop event photo published by SGC.",
+    "sourceImage": "https://res.cloudinary.com/djm8qhle1/image/upload/f_auto,q_auto/Build_X_AI_z96exu",
+    "link": "https://www.linkedin.com/posts/studentguidancecell-cahcet_studentguidancecell-buildxai-ai-activity-7435661329157279744-LNju"
+  },
+  {
+    "name": "SGC Trainee Recruitment Drive 2025",
+    "slug": "trainee-recruitment-2025",
+    "date": "2025-09-11",
+    "category": "Member recruitment",
+    "description": "SGC’s 2025 recruitment drive invited enthusiastic students to apply for trainee opportunities through a structured selection process.",
+    "image": "/images/events/trainee-recruitment-2025.jpg",
+    "imageAlt": "SGC Trainee Recruitment Drive 2025 event photo published by SGC.",
+    "sourceImage": "https://res.cloudinary.com/db45ygusv/image/upload/v1775586571/WhatsApp_Image_2026-04-07_at_9.53.31_PM_kurfbm.jpg",
+    "link": "https://www.linkedin.com/posts/studentguidancecell-cahcet_studentsguidancecell-sgc-hiring-activity-7441861224826515456-Zlfj"
+  },
+  {
+    "name": "Critical Thinking Workshop 2025",
+    "slug": "critical-thinking-2025",
+    "date": "2025-08-06",
+    "category": "Problem-solving workshop",
+    "description": "First-year students worked through puzzles, group activities and “Think Out of the Box,” with guest speakers Tejesh Pichandi and Mohammed Zabeer Z.",
+    "image": "/images/events/critical-thinking-2025.webp",
+    "imageAlt": "Students taking part in the Critical Thinking Workshop 2025.",
+    "sourceImage": "https://pub-5d273e51c1e04ce0a3c2ff2de35c23a1.r2.dev/ctwrkshp.webp",
+    "link": "https://www.linkedin.com/posts/mohammed-aasif-create_criticalthinking-studentdevelopment-problemsolving-ugcPost-7362213652898238464-GmX1"
+  },
+  {
+    "name": "Substance Awareness Programme",
+    "slug": "substance-awareness-2024",
+    "date": "2024-09-30",
+    "category": "Student wellbeing",
+    "description": "Psychiatrist Dr. E. Gokulan spoke with first-year students about addiction, mental health and making informed choices.",
+    "image": "/images/events/substance-awareness-2024.jpg",
+    "imageAlt": "Substance Awareness Programme 2024 event image published by SGC.",
+    "sourceImage": "https://res.cloudinary.com/douhcccb7/image/upload/v1738508967/IMG_20250129_193954_h6zkuw.jpg",
+    "link": "https://www.linkedin.com/posts/studentguidancecell-cahcet_substanceawareness-mentalhealthmatters-prevention-activity-7247646017846722561-R5ht"
+  },
+  {
+    "name": "Student Guidance Cell Workshop 2023",
+    "slug": "sgc-workshop-2023",
+    "date": "2023-09-15",
+    "category": "Web development and Git workshop",
+    "description": "A two-day workshop introduced first-year students to web development, Git and GitHub through hands-on learning.",
+    "image": "/images/events/sgc-workshop-2023.jpg",
+    "imageAlt": "Students attending the Student Guidance Cell Workshop 2023.",
+    "sourceImage": "https://res.cloudinary.com/douhcccb7/image/upload/v1738510854/IMG_20231005_145720_lkpfxa.jpg",
+    "link": "https://www.linkedin.com/posts/studentguidancecell-cahcet_techworkshop-studentempowerment-buildingthefuture-activity-7115733994557607936-FYGY"
+  },
+  {
+    "name": "Git & Web Development Workshop 2023",
+    "slug": "git-web-development-2023",
+    "date": "2023-05-13",
+    "category": "Technology workshop",
+    "description": "Students began learning web development fundamentals and using Git and GitHub in a practical workshop.",
+    "image": "/images/events/git-web-development-2023.jpg",
+    "imageAlt": "Git and Web Development Workshop 2023 event photo published by SGC.",
+    "sourceImage": "https://res.cloudinary.com/douhcccb7/image/upload/v1738509072/IMG_20231004_102826_qib3om.jpg",
+    "link": "https://www.linkedin.com/posts/studentguidancecell-cahcet_git-github-web-activity-7115371030180728832-JnyA"
+  }
+]
